@@ -90,9 +90,9 @@ Terminando de designar huellas a símbolos, debemos pasar a PCB NEW
 
 -----
 
-Soy de re-leer los textos y no había tenido la oportunidad de hacerlo el día anterior, así que lo hice en camino a la universidad. 
+*Soy de re-leer los textos y no había tenido la oportunidad de hacerlo el día anterior, así que lo hice en camino a la universidad.*
 
-HACIA UNA FILOSOFÍA DE LA FOTOGRAFÍA—VILÉM FLUSSER
+- HACIA UNA FILOSOFÍA DE LA FOTOGRAFÍA—VILÉM FLUSSER
 
 Siempre antes de comenzar a leer un texto nuevo, se debe saber un poco de quien es el autor, ya que gracias a eso podemos saber cómo ve y aprecia el mundo:
 
