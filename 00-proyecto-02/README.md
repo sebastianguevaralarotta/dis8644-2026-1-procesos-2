@@ -2,9 +2,9 @@
 
 ## estructura del proyecto
 
-cada grupo de trabajo se hace cargo de un tema específico.
+cada grupo de trabajo se hace cargo de un tema específico (ej: 2 filtros distintos, piezo + seq, vco + modulador, etc).
 
-cada grupo entrega 2 alternativas de diseño, con sus respectivos esquemáticos, PCB, lista de materiales, entre otros.
+cada grupo entrega 2 módulos, con sus respectivos esquemáticos, PCB, lista de materiales, entre otros.
 
 ## convenciones de archivos
 
@@ -14,11 +14,11 @@ cada grupo debe entregar un README.md con la estructura del proyecto propuesta e
 
 ### videos
 
-no subir videos al repositorio, subirlos a Youtube o similar, enlazarlos.
+no subir videos al repositorio, subirlos a Youtube o similar, enlazarlos. GIF sí se puede.
 
 ### imágenes
 
-subir imágenes al repositorio a una subcarpeta imágenes, enlazarlas en README.md.
+subir imágenes al repositorio a una subcarpeta `./imagenes`, enlazarlas en README.md.
 
 será penalizado no subir las imágenes de forma correcta, con -2 puntos, o sea nota máxima 5.0. por ejemplo, NO subir imágenes con método "drag-and-drop" directo a README.md y que GitHub haga el enlace por ustedes.
 
