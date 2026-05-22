@@ -1,4 +1,4 @@
-# sesion-09b 08.05
+# sesion-09b 15.05
 
 ## Símbolos
 Para modificar/personalizar nuestros símbolos, lo seleccionamos, apretamos la "e" y seleccionamos "edit symbol" para editar sus propiedades específicas.
