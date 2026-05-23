@@ -46,6 +46,21 @@ Primera opción: Utilizar el chip 4046
 ![4046](./imagenes/cd4046.png)
 ![4046](./imagenes/4046.png)
 
+___
+Mis comentarios y reflexiones sobre el libro *Hacia una filosofía de la fotografía*, de Vilém Flusser.
+
+Capítulo 6: La distribución de la fotografía
+
+Habla sobre cómo las fotografías se distribuyen mediante la reproducción. La cámara produce el prototipo y hace posible la producción en serie de estereotipos impresos. El valor de la fotografía no está en el objeto físico, sino en su información y en que es reproducible. Las fotografías se convierten en un flujo constante de información y pasan a influir en los comportamientos y en las formas que tenemos para entender el mundo.
+
+Reflexión propia: Nuevamente relacionado con la realidad de hoy y las redes sociales, por lo rápido que se pueden difundir las imágenes y el impacto que pueden generar.
+
+Capítulo 7: La recepción de la fotografía
+
+Habla sobre cómo las personas reciben la fotografía y cómo muchas veces solo la ven superficialmente, pero no se detienen a analizarla en profundidad ni a cuestionar sus significados. Interpretar las imágenes es tan importante como leer textos. Casi todo el mundo tiene una cámara, pero a veces quienes saben tomar fotografías no saben necesariamente cómo analizarlas.
+
+Reflexión propia: La poca importancia que a veces le damos a las fotografías, ya que no cuestionamos más allá de lo que vemos, quién la tomó o qué buscaba transmitir.
+
 
 
 
