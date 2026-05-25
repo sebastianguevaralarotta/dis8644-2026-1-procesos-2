@@ -42,7 +42,23 @@ Huellas:
  * Doble click: huella > librería > buscar
  * Asignar huellas: copiar y pegar en los mismos componentes
 
-> para este paso también es importante poder identificar los tipos de archivos que estarán al abrir solo 1 archivo, es decir, son una extensión del mismo programa. En el cual encontramos el archivo kicad_sch que es el esquemático, luego tenemos .kicad_pcb que seria la PCB y posteriormente tendriamos el .kicad_pro que seria todo el proyecto.
+> para este paso también es importante poder identificar los tipos de archivos que estarán al abrir solo 1 archivo, es decir, son una extensión del mismo programa. En el cual encontramos el archivo .kicad_sch que es el esquemático, luego tenemos .kicad_pcb que seria la PCB y posteriormente tendriamos el .kicad_pro que seria todo el proyecto.
+
+Ahora sí, vamos con los pasos a seguir que nos enseñaron en esta clase.
+
+ * Paso 1
+Para comenzar se tiene que empezar un nuevo proyecto, es decir un .kicad_pro, y para esto primero debemos guardar nuestro proyecto en alguna carpeta bien organizada, en mi caso tengo una carpeta especifica para este taller y dentro de esa carpeta tengo una carpeta que se llama kicad proyecto. luego se abre una ventana limpia donde ya puedes empezar a trabajar en el esquematico
+
+**Poner imagenes**
+
+* Paso 2
+En este paso es netamente asignar las huellas, en donde se asociará cada simbolo con su huella correspondiente según sea su tipo (THT o SMD) y su tamaño físico.
+
+* Paso 3
+Acá ya contemplamos lo que seria el editor de la PCB, y aca es donde nosotros tenemos que ver en qué parte va cada componente según nuestro criterio.
+
+y hasta acá llego esta clase y es lo que pudimos alcanzar a ver de este programa. 
+
 
 
 
