@@ -8,6 +8,9 @@ Hola profe Misa, Aarón y Emi, les mando un abrazo y veamos que tenemos para hoy
 4.	Clase sobre algunos chips osciladores y algunos amplificadores.
 5.	Flusser, cap. 4, 5
 
+> ***Así termino el tablero este día:***
+>> ![img4](./imagenes/img4.jpg)
+
 ## 1.	Charla sobre la presentación de la próxima exposición; For want or (not) measuring (Para querer o no medir).
 
 Esta charla a la cual asistimos todxs mis compañerxs de clase y yo, fue principalmente para informarnos sobre este proyecto llamado **“For want or (not) measuring”** de un grupo de personas muy talentosas, que vienen de England a compartir su arte y su exposición en Santiago de chile, en el museo CEINA.
@@ -34,7 +37,7 @@ Con lo anteriormente mencionado, el scanner está hecho para scannear lugares cu
 
 Los Osciladores Controlados por Voltaje, son circuitos electrónicos que generan una señal como una onda, *(una señal que oscila jiji),* y la frecuencia cambia dependiendo del voltaje de entrada.
 
-Aquí va una imagen
+![img3](./imagenes/img3.jpg)
 
 Y estas oscilaciones, se controlan con los potenciómetros, que son lo que nos permiten jugar con el flujo de la energía. 
 
