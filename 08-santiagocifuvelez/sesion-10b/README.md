@@ -29,4 +29,7 @@ Veamos que tenemos para hoy:
 >> *(Este concepto lo nombro el profesor Missa, en complemento de la retroalimentación de la lectura del día…)*
 
 ## 3.	Trabajo en clase, proyecto para solemne 02. 
+
+Para nuestro proyecto solemne, vamos a hacer un sintetizador modular, en la que cada grupo que se formó para este proyecto, tiene partes del sintetizador muy importantes, y en este caso en mi grupo escogimos el Oscilador 2.
+
 ## 4.	Flusser, cap. 6, 7
