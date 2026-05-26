@@ -7,7 +7,6 @@
 Ahora sí, veamos que hicimos en esta clase:
 
 1.	Entrega de Encargo y dudas que surgieron de allí.  
-2.	Botones.  
    
 Comencemos :)
 
