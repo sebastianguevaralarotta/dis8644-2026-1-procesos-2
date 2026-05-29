@@ -28,7 +28,7 @@ Barrel switch:
   
 ![jack](./imagenes/barrel_jack.jpeg)
 
-Como segundo ciercuito quisimos recrear este circuito que encontrampos en el libro "Make: Electronic music from scratch" que se llama "INHARMONIC_SQUARE_WAVES"
+Como segundo circuito de nuestro proyecto quisimos recrear este esquemático que encontramos en el libro "Make: Electronic music from scratch" que se llama "INHARMONIC_SQUARE_WAVES"
 ![circuito](./imagenes/make.jpeg)
 
 Nico hizo el esquemátco del circuito en Kicad.
