@@ -27,12 +27,10 @@ Nos pusimos a indagar por la página de **Hackaday** (que tiene proyectos incre�
 
 Este integrado es un bucle bloqueado por fase (PLL). Los PLL son circuitos dulces y verdaderas joyitas de la electrónica. En su uso normal, tú le metes una forma de onda con una frecuencia dada y el chip te tira una onda cuadrada sincronizada, pero a una frecuencia más alta.
 
-Lo mejor para nuestro proyecto es lo que tiene por dentro:
-
 * **Tiene un VCO (Oscilador Controlado por Voltaje)** integrado en su interior. Al ser controlado por voltaje, podemos cambiar el tono del sonido de una manera mucho más dinámica y loca introduciendo variaciones de tensión.
 * **Pines clave que anotamos:** La entrada de voltaje para controlar el VCO está en el **pin 9**, y la salida de la onda sonora está en el **pin 4**.
-
-El **CD4046B** es un chip CMOS de bajo consumo que consta de este oscilador lineal (VCO) y dos comparadores de fase diferentes que comparten entradas. Además, viene con un diodo zener de 5,2 V para regular la fuente de alimentación si llega a ser necesario (¡así no se nos quema nada en la protoboard jiji!).
+  
+El CD4046B es un chip CMOS de bajo consumo que consta de este oscilador lineal (VCO) y dos comparadores de fase diferentes que comparten entradas.
 
 ¡Eso por el momento! El siguiente paso es ver si armamos el esquemático, calcular bien los componentes y empezar a tirar cables para ver si resulta. <3
 
