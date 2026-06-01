@@ -25,7 +25,7 @@ Esta alternativa la seleccionamos desde la página de Hackaday y se centra en el
 * Es ampliamente utilizado para multiplicar frecuencias, demodular señales FM y crear conversores de tensión a frecuencia.
 * Opera en un rango de voltaje de 3 V a 18 V.
 
-imagen opcion 1
+![Esquematico 1](./imagenes/opcion1.jpeg)
 
 #### Opción 2: Configuración con Temporizador y Divisor de Décadas (YouTube)
 
@@ -41,7 +41,7 @@ Esta segunda alternativa la sacamos desde un video de YouTube y utiliza un enfoq
 3. **CD4046 (VCO y PLL)**
 * Mantiene las mismas funciones de control por tensión descritas en la primera alternativa para modular las frecuencias del sistema.
 
-imagen opcion 2
+![Esquematico 2](./imagenes/opcion2.jpeg)
 
 ---
 
@@ -83,7 +83,7 @@ Siguiendo detalladamente el diagrama de *estandar.png*, configuramos los bloques
 * Utilizado como puerto estándar para el envío y recepción de señales de control de voltaje (VCO) y audio entre diferentes placas.
 * **Modificación de Footprint:** En KiCad se debe cambiar manualmente el número de los pines al orden jerárquico 1, 2 y 3 para reemplazar correctamente la configuración nativa de tipo T/TN/S.
 
-Colocar aquí la imagen de referencia: estandar
+![Componentes Estandar](./imagenes/estandar.png)
 
 ---
 
