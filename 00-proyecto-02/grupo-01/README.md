@@ -52,7 +52,14 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 
 | Componente | Cantidad | Valor unitario | Link |
 | --- | --- | --- | --- |
-
+| NE555P | 1 | $490 | <https://www.victronics.cl/circuitos-integrados/lm555cngeneralpurposebipolartimerdip8/> |
+| TL072CP | 1 | $990 | <https://www.victronics.cl/circuitos-integrados/tl072cpdualjfetlowpoweropamplifierdip8/> |
+| CD4017 | 1 | $890 | <https://www.mechatronicstore.cl/circuito-integrado-4017-contador/?srsltid=AfmBOopG29clQvJ0CqcNNp17wxEDjZ1w8dAWqRPMAcTqycciqYjHE40h>
+| L7805CV | 1 | $350 | <https://www.victronics.cl/reguladores/reguladorvoltl7805cv5v-15ato220/> |
+| 1N4007 | 1 | $200 | <https://www.mechatronicstore.cl/diodo-rectificador-in4007-1n4007-4007/> |
+| BAT85 | 2 | $586 | <https://cl.rsdelivers.com/product/nexperia/bat85113/nexperia-diodo-bat85113-diodo-schottky-200-ma-30-v/0300978> |
+| 2N2222 | 1 | $200 | <https://www.mechatronicstore.cl/transistor-2n2222/> |
+| 
 
 ## Circuito 2
 
