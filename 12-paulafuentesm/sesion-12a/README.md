@@ -32,6 +32,8 @@ Después de conversar varias veces como grupo y analizar las posibles causas, de
 ---
 ### Propuesta 2.0
 
+**El esquemático fue obtenido de la web Hackaday, específicamente del artículo "Logic Noise: Sweet, Sweet Oscillator Sounds", donde pudimos analizar qué función cumplía el chip y comprender cómo era su funcionamiento.**
+
 Finalmente, decidimos trabajar únicamente con el chip 40106 y aprovechar las ondas cuadradas que este generaba. Esta solución resultó mucho más sencilla y menos estresante para todos. Además, nos permitió comprender mejor el funcionamiento del circuito y prepararnos de mejor manera para explicarlo durante la solemne.
 
 Tomamos la decisión de priorizar el entendimiento del chip y sus funciones por sobre simplemente replicar un circuito más complejo que no lográbamos hacer funcionar de forma estable.
