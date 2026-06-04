@@ -211,8 +211,7 @@
       ],
       "track_widths": [
         0.0,
-        0.4,
-        0.8
+        0.4
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -503,7 +502,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "secuenciador-01-v01.kicad_pro",
+    "filename": "4015-falstad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -521,7 +520,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.4,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -658,9 +657,9 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "secuenciador-01-v01.kicad_sch",
-        "name": "secuenciador-01-v01",
-        "uuid": "775ddcce-7399-4327-91c6-577fa9692cfa"
+        "filename": "4015-falstad.kicad_sch",
+        "name": "4015-falstad",
+        "uuid": "7d305f90-0570-4cd5-a06e-4b8b2fd923a4"
       }
     ],
     "used_designators": "",
@@ -668,8 +667,8 @@
   },
   "sheets": [
     [
-      "775ddcce-7399-4327-91c6-577fa9692cfa",
-      "secuenciador-01-v01"
+      "7d305f90-0570-4cd5-a06e-4b8b2fd923a4",
+      "4015-falstad"
     ]
   ],
   "text_variables": {},
