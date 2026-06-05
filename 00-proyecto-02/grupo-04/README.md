@@ -16,8 +16,7 @@ Integrantes:
 - Antonella Kiara Aguilar Plate / antokiaraa
 
 ## Circuito 1
-
-Título módulo 1
+![Título módulo 1](./imagenes/titulo1oscilador1.gif)
 
 ### Descripción general/conceptual 1
 
