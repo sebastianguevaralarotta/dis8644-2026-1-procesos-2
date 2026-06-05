@@ -54,13 +54,15 @@ Para afinar la señal que recibe el inversor, colocamos un filtro low-pass, esto
 
 ### PCB 1
 
-![pcb front](./imagenes/pcb-front-1.png)
+![pcb front](./imagenes/pcb-01-1.png)
 
-![pcb back](./imagenes/pcb-back-1.png)
+![pcb back](./imagenes/pcb-01-2.png)
 
 ### Documentación audiovisual funcionamiento protoboard 1
 
-Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
+[video-piezo-01](https://youtu.be/JZCzPmO_yxs)
+
+![proto-1-1](./imagenes/piezo-01-1.jpg)
 
 ### BOM
 
@@ -130,17 +132,19 @@ Archivo piezo-02-v04: Solo regulador integrado.
 
 ### PCB 2
 
-```markdown
-![pcb front](./imagenes/pcb-front-2.png)
-```
 
-```markdown
-![pcb back](./imagenes/pcb-back-2.png)
-```
+![pcb front](./imagenes/pcb-02-1.png)
+
+
+
+![pcb back](./imagenes/pcb-02-2.png)
+
 
 ### Documentación audiovisual funcionamiento protoboard 2
 
-Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
+[video-piezo-02](https://youtu.be/MbAfNLuIrsg)
+
+![proto-2-1](./imagenes/piezo-02-1.jpg)
 
 ### BOM
 
