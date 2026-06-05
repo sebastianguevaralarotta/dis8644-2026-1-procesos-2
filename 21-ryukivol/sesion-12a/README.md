@@ -16,6 +16,6 @@ Luego de MILES de intentos con hybrida, entre armar y rearmar, agregar amp, cone
 - Ultima clase y an no funcionaba a pesar de seguir el esquematico al pie de la letra, misa nos recomendó probar con audio y aun asi no se lograba activar
 - luego de varios intentos llegamos a la conclusión de agregar un amp y variar los capacitores, logrando que por fin funcione el circuito y presente audio
 - 
-![circuito-02](./imagenes/circuito-02-amp.jpg)
+![piezo-02](./imagenes/piezo-02-amp.jpg)
   
 ![circuito-02](./imagenes/circuito-02.png)
