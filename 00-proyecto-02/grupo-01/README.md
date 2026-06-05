@@ -22,6 +22,8 @@ maincra
 
 Este módulo te permite interactuar con el sintetizador mediante vibraciones en el piezo, tales como golpes en la misma superficie en la que se encuentra el componente o utilizándolo en nuestro cuerpo y causar vibraciones con nuestra garganta. Estas vibraciones serás captadas por el piezo, lo cual lo tomará como señal para avanzar en el secuenciador.
 
+La idea detrás de esta propuesta nace de la posibilidad de sentir y ver las vibraciones. Aquello que parece caótico o insignificante puede contener señales que, al prestar suficiente atención, adquieren un significado propio. Siguiendo esa lógica, el piezo actúa como un medio para captar esas pequeñas vibraciones y convertirlas en acciones dentro del sintetizador, permitiendo que elementos normalmente invisibles se vuelvan parte de la interacción.
+
 ### Descripción de funcionamiento 1
 
 El circuito se conforma de 7 partes:
