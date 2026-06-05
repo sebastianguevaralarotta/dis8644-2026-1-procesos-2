@@ -31,7 +31,7 @@ Una banda de chirigües
 
 Le vino a dar un concierto"
 
-—Inti-Illimani
+—Violeta Parra
 
 Nuestro circuito es un oscilador, el cual tiene la función de generar la forma de la onda que luego se convertirá en sonido. El Chirihue Mecanizado lleva su nombre gracias al parecido con el canto de este pájaro, quien tiene una melodía particular, donde repite sonidos extremadamente cortos y agudos de manera continua, y va oscilando/variando, de cierta forma, en la tonalidad y en el ritmo. Esta propuesta lleva su apellido “Mecanizado” ya que nuestros sonidos se encuentran limitados por la condición de la máquina, y aunque quisiéramos, no podríamos imitar su canto original que está creado por la naturaleza. Por lo tanto, esta es nuestra reinterpretación de su voz. 
 
