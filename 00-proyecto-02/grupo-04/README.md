@@ -174,7 +174,7 @@ _____________________________________________________
 
 ### ¿Cómo me ayudó otro grupo?
 
-- El grupo 03 (osciladores 01), nos ayudó prestandonos 2 potenciómetros que se nos habían dañado. También, Carla, integrante del grupo 06, nos enseñó en la sala de clases como importar una librería de huellas (que serían los estándares generales para la entrega de la solemne 02).
+- El grupo 03 (osciladores 01), nos ayudó prestandonos 2 potenciómetros que se nos habían dañado. También, Carla, integrante del grupo 06, nos enseñó en la sala de clases como importar una librería de huellas (que serían los estándares generales para la entrega de la solemne 02). Además, Vania, Nico y Cata (también perteneciente del grupo 06), se tomaron el tiempo de explicarnos cómo funcionaba y se conectaba el barrel y audio jack.
 
 ## Bibliografía
 
