@@ -8,144 +8,185 @@ recitaron un poema de un poeta que esta funado, pero era vanguardista en su epoc
 
 Apuntes de conexion realizadoa en la clase: 
 
-Pin 1:
-- al pin 2
+# Conexiones del Circuito
 
-Pin 2:
-- al pin 3
+## CD4046 (PLL)
 
-Pin 3:
-- a GND
+### Pin 1
+- Conectado al pin 2.
 
-Pin 4:
-- a una resistencia de 100k
-- al pin 3 del TL072
+### Pin 2
+- Conectado al pin 1.
+- Conectado al pin 3.
 
-Pin 5:
-- a GND
+### Pin 3
+- Conectado al pin 2.
+- Conectado a GND.
 
-Pin 6:
-- a un capacitor de 1uF
-- al pin 7
+### Pin 4
+- Conectado al pin 3 del TL072.
+- Conectado a una resistencia de 100 kΩ.
 
-Pin 7:
-- a un capacitor de 1uF
-- al pin 6
+### Pin 5
+- Conectado a GND.
 
-Pin 8:
-- a GND
+### Pin 6
+- Conectado al pin 7.
+- Conectado a un capacitor de 1 µF.
 
-Pin 9:
-- a la pata 2 del potenciómetro B1M
-- (control melodía)
+### Pin 7
+- Conectado al pin 6.
+- Conectado a un capacitor de 1 µF.
 
-Pin 10:
-- sin conexión
+### Pin 8
+- Conectado a GND.
+- Conectado mediante un capacitor de 100 nF (104) al pin 14.
 
-Pin 11:
-- a la pata 2 del potenciómetro B500k
-- (rango melodía)
-- a una resistencia de 100k
-- a GND
+### Pin 9
+- Conectado a la pata 2 del potenciómetro B1M.
 
-Pin 12:
-- a una resistencia de 100k
-- a GND
+### Pin 10
+- Sin conexión.
 
-Pin 13:
-- al pin 14
-- a GND
+### Pin 11
+- Conectado a la pata 2 del potenciómetro B500k.
+- Conectado a una resistencia de 100 kΩ.
+- Conectado a GND.
 
-Pin 14:
-- al pin 13
-- a GND
+### Pin 12
+- Conectado a una resistencia de 100 kΩ.
+- Conectado a GND.
 
-Pin 15:
-- a GND
+### Pin 13
+- Conectado al pin 14.
+- Conectado a GND.
 
-Pin 16:
-- a VCC
-- a un capacitor cerámico 104 (100nF)
+### Pin 14
+- Conectado al pin 13.
+- Conectado a GND.
+- Conectado mediante un capacitor de 100 nF (104) desde el pin 8.
 
-- Capacitor cerámico 104 (100nF):
+### Pin 15
+- Conectado a GND.
 
-- una pata a pin 16 (VCC)
-- otra pata a GND
+### Pin 16
+- Conectado a VCC (+5 V).
+- Conectado a un capacitor de desacople de 100 nF (104).
 
-  Pin 1:
-- a un capacitor cerámico 103 (10nF)
-- al pin 2
-- a la pata 1 del potenciómetro B250k
-- al potenciómetro B100k
-- al pin 3 del LM386
+### Capacitor de desacople 100 nF
+- Una pata al pin 16.
+- La otra pata a GND.
 
-Pin 2:
-- al capacitor cerámico 103 (10nF) desde el pin 1
-- a la pata 2 del potenciómetro B250k
-- a una resistencia de 10k
-- a GND
+---
 
-Pin 3:
-- a una resistencia de 100k
-- al pin 4 del 4046
-- a un capacitor cerámico 104 (100nF)
-- a GND
+## TL072
 
-Pin 4:
-- a GND
-- a un capacitor cerámico 104 (100nF)
+### Pin 1
+- Conectado a un capacitor de 10 nF (103).
+- Conectado al pin 2.
+- Conectado a la pata 1 del potenciómetro B250k.
+- Conectado a la pata 1 del potenciómetro B100k.
+- Conectado al pin 3 del LM386.
 
-Pin 5:
-- sin conexión
+### Pin 2
+- Conectado a un capacitor de 10 nF (103).
+- Conectado a la pata 2 del potenciómetro B250k.
+- Conectado a una resistencia de 10 kΩ.
+- Conectado a GND.
 
-Pin 6:
-- a una resistencia de 10k
-- al pin 7
+### Pin 3
+- Conectado a una resistencia de 100 kΩ.
+- Conectado al pin 4 del CD4046.
+- Conectado a un capacitor de 100 nF (104).
+- Conectado a GND.
 
-Pin 7:
-- a una resistencia de 10k
-- al pin 6
+### Pin 4
+- Conectado a GND.
+- Conectado a un capacitor de 100 nF (104).
 
-Pin 8:
-- a VCC
-- al pin 6
-- al pin 7
+### Pin 5
+- Sin conexión.
 
-- Pin 1:
-- sin conexión
+### Pin 6
+- Conectado a una resistencia de 10 kΩ.
+- Conectado al pin 7.
 
-Pin 2:
-- a GND
+### Pin 7
+- Conectado a una resistencia de 10 kΩ.
+- Conectado al pin 6.
 
-Pin 3:
-- al pin 1 del TL072
-- a la pata 2 del potenciómetro B100k
+### Pin 8
+- Conectado a VCC (+5 V).
+- Conectado al pin 6.
+- Conectado al pin 7.
 
-Pin 4:
-- a GND
-- al negativo de un capacitor de 100uF
+---
 
-Pin 5:
-- al positivo de un capacitor de 100uF
-- al negativo del capacitor conectado al parlante
-- a una pinza caimán
-- al positivo del parlante
+## LM386
 
-Pin 6:
-- a VCC
+### Pin 1
+- Sin conexión.
 
-Pin 7:
-- al positivo de un capacitor de 1uF
-- el negativo del capacitor va a GND
+### Pin 2
+- Conectado a GND.
 
-Pin 8:
-- al positivo del capacitor de 100uF conectado al pin 4
+### Pin 3
+- Conectado al pin 1 del TL072.
+- Conectado a la pata 2 del potenciómetro B100k.
 
-- Parlante:
+### Pin 4
+- Conectado a GND.
+- Conectado al terminal negativo de un capacitor de 100 µF.
 
-- positivo del parlante al capacitor desde el pin 5
-- negativo del parlante a GND
-  
-- 
+### Pin 5
+- Conectado al terminal positivo del capacitor de 100 µF.
+- Conectado al terminal negativo del capacitor de salida hacia el parlante.
+- Conectado a una pinza caimán.
+- Conectado al terminal positivo del parlante.
+
+### Pin 6
+- Conectado a VCC (+5 V).
+
+### Pin 7
+- Conectado al terminal positivo de un capacitor de 1 µF.
+- El terminal negativo del capacitor va a GND.
+
+### Pin 8
+- Conectado al terminal positivo del capacitor de 100 µF conectado al pin 4.
+
+---
+
+## Potenciómetros
+
+### B1M (Control de melodía)
+- Pata 2 conectada al pin 9 del CD4046.
+
+### B500k (Rango de melodía)
+- Pata 2 conectada al pin 11 del CD4046.
+
+### B250k
+- Pata 1 conectada al pin 1 del TL072.
+- Pata 2 conectada al pin 2 del TL072.
+
+### B100k
+- Pata 1 conectada al pin 1 del TL072.
+- Pata 2 conectada al pin 3 del LM386.
+
+---
+
+## Alimentación
+
+### VCC (+5 V)
+- Pin 16 del CD4046.
+- Pin 8 del TL072.
+- Pin 6 del LM386.
+
+### GND común
+- CD4046: pines 3, 5, 8, 11, 12, 13, 14 y 15.
+- TL072: pin 4.
+- LM386: pines 2 y 4.
+- Terminales negativos de los capacitores indicados.
+- Línea de tierra común de la protoboard.
+
 
   
