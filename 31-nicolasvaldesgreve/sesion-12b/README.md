@@ -10,6 +10,6 @@ Como estuvimos en presentaciones no hay fotos de avances, pero si fotos que tom�
 
 ![Piezo descartado lol](./imagenes/piezo-02.jpg)
 
-![Piezo Maincra](./imagenes/maincra.jpg)
+![Piezo Maincra](./imagenes/maincra.JPG)
 
-![Presentación](./imagenes/presentacion.jpg)
+![Presentación](./imagenes/presentacion.JPG)
