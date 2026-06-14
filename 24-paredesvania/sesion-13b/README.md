@@ -78,7 +78,7 @@ Y ya tenemos algunas ideas de partituras.
 
 El nombre me llama la atención porque "evento" suena a algo como una obra?, algo que tiene hora y lugar, las piezas de este cap son cosas que pueden pasar en cualquier momento, o que ya están pasando sin que nadie necesariamente las haya declarado evento antes
 
-Tenvo mis fav, entre ellas esta *"Pieza de Arvejas"*, que es llevar una bolsa de arvejas y dejar una en cada lugar adonde vayas, me gusta porquee s como dejar un rastro, y dievrtido.
+Tenvo mis fav, entre ellas esta *"Pieza de Arvejas"*, que es llevar una bolsa de arvejas y dejar una en cada lugar adonde vayas, me gusta porque es como dejar un rastro, y además es dievertido.
 
 También *"Pieza de Olor I"*, enviar el olor de la luna, la luna tendrá olor?.
 
