@@ -44,4 +44,92 @@ Oranizacion de proyecto - Examen
 -hacia un lado + brillo 
 -hacia el otro + oscuro 
 
+---
+PARTITURA — "DOS PERILLAS"
 
+Duración aproximada: 5 minutos
+
+0:00 – 2:00
+
+Una sola nota
+como un hilo de luz.
+
+Gira RV1 lentamente,
+
+y escucha cómo el sonido
+cambia de color,
+como una nube que cruza el cielo.
+
+2:00 – 4:00
+
+Mantén la misma nota,
+
+como quien sostiene un recuerdo.
+
+Gira RV2 lentamente,
+
+y escucha las pequeñas transformaciones,
+olas invisibles
+sobre una misma superficie.
+
+4:00 – 5:00
+
+Deja ambas perillas
+donde el sonido quiera quedarse.
+
+Sostén la nota
+unos segundos más,
+
+como si respirara por sí sola.
+
+Después,
+
+déjala ir.
+
+Permanece en silencio.
+
+Escucha lo que queda.
+
+Fin.
+
+---
+
+PARTITURA EXPERIMENTAL — "ONDAS INVISIBLES"
+
+Instrumento:
+Sintetizador conectado al filtro pasivo de dos controles (RV1 y RV2).
+
+Duración:
+5 a 10 minutos.
+
+1. Comienza con una única nota sostenida.
+
+2. Gira RV1 lentamente desde el mínimo hasta el máximo durante un minuto completo.
+
+3. Escucha únicamente los cambios de color del sonido.
+   No cambies la nota.
+
+4. Cuando percibas una frecuencia que te recuerde un lugar,
+   mantén esa posición durante diez segundos.
+
+5. Cambia a otra nota.
+   Puede ser más aguda o más grave.
+   No debe seguir ninguna escala.
+
+6. Mueve RV2 muy lentamente hasta que el sonido parezca respirar.
+
+7. Introduce silencios.
+   Los silencios deben durar más de lo que resulte cómodo.
+
+8. Repite una nota tres veces.
+   Cada repetición debe ser más suave que la anterior.
+
+9. Lleva ambos controles al extremo opuesto.
+
+10. Toca una última nota.
+
+11. Espera a que desaparezca completamente.
+
+12. No hagas nada durante treinta segundos.
+
+Fin.
