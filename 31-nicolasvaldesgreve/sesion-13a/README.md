@@ -32,7 +32,7 @@ Este es mi favorito!! lo siento muy real, y no quiero que suene medio #emolife, 
 
 ![Blood piece, hermoso!!](./imagenes/blood-piece.png)
 
-Este creo que es mi segundo favorito, ya que también lo sentí muy real ya que esto es lo que siento cada vez que tengo que interactuar con personas!! cada vez que hablo con alguien es como utilizar mi sangre para crear arte, en este caso relaciones interpersonales, hasta que siento que ya no puedo más y siento que podría morir o desmayarme del cansancio (cosa que en realidad sé que vale la pena, ya que la vida sería muy triste sin nuestras redes de cariño y apoyo).
+Este creo que es mi segundo favorito, ya que también lo sentí muy real porque esto es lo que siento cada vez que tengo que interactuar con personas!! cada vez que hablo con alguien es como utilizar mi sangre para crear arte, en este caso relaciones interpersonales, hasta que ya no puedo más y siento que podría morir o desmayarme del cansancio (cosa que en realidad sé que vale la pena, ya que la vida sería muy triste sin nuestras redes de cariño y apoyo).
 
 Ahora, estas siguientes estan relacionadas a una conversación que tuvimos con unos compañeros en donde hablamos que este libro se parecía bastante a "el libro troll", lo cual puede ser la versión de ese libro para la gente de ese año (1964) y me causó mucha gracia pensarlo así:
 
