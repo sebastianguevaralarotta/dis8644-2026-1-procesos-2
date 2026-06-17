@@ -1,6 +1,6 @@
 # sesion-14a
 
-## Trabajo en clase proyecto 02 
+## Trabajo en clase proyecto 03 
 
 En esta clase nos dedicamos a trabajar en el último proyecto antes del examen. Se generaron áreas de soldado para poder empezar a ensamblar nuestras placas, con mi grupo decidimos utilizar nuestras dos versiones de osciladores y una de percusión del grupo 06, que sonaba como abejita y tiene forma de abejita, súper cute. Logramos soldar todos los componentes a las placas de forma correcta (tanto las nuestras como las de nuestros compañeros) y también el RELO.
 
@@ -34,3 +34,6 @@ aprendí este año que extrañar algo es un privilegio. que solo se puede extra�
 
 Ono escribe este libro como si la vida fuera una serie de instrucciones simples, y quizás lo es. nacer, crecer, casarse si se quiere, envejecer sin darse cuenta y morir de algo. y eso, leerlo así, me pareció una de las cosas más honestas que encontré en todo el libro.
 
+![imagenes](./imagenes/wow.png)
+
+> abrazarse todos los días. nunca se sabe cuando va a morirse uno.
