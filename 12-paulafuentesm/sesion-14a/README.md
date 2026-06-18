@@ -53,6 +53,7 @@ Por lo mismo, decidimos rescatar algunos de estos elementos de los grupos 1 de l
 Como otra posibilidad, también habíamos pensado en cambiar completamente el enfoque: dejar de preocuparnos tanto por conservar el sonido original y, en cambio, conectar nuestros dos osciladores al secuenciador para ver qué resulta de esa mezcla de sonidos. La idea sería experimentar sin buscar replicar necesariamente el canto del chirigüe, sino descubrir nuevas combinaciones y comportamientos sonoros a partir del diálogo entre ambos osciladores.
 
 De todas formas, esto sigue siendo parte del imaginario del proyecto y una línea de exploración más que una decisión definitiva. Todavía estamos evaluando qué camino tiene más sentido.
+
 -----
 
 ### LECTURA: POMERO: libro de instrucciones de Yoko Ono
