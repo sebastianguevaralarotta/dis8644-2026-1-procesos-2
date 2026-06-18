@@ -40,9 +40,12 @@ Hay veces que la misma mente es el ruido o la música más suave que puede haber
 **Favorito:**
 
 PIEZA DE AMANECER 
+
 Tomar la primera palabra que se cruceе por la mente. 
+
 Repetirla hasta el amanecer. 
-( Primavera 1964 Invierno 1963 
+
+( Primavera 1964 Invierno 1963 )
 
 + no hay nada mas reudoso que la mente en una mmadrugada, donde una mismo y el exterior estan en guerra.
 
@@ -52,9 +55,13 @@ En lugar de centrarse en pintar tradicional, presenta instrucciones que invitan 
 **Favorito:**
 
 PINTURA QUE SOLO EXISTE CUANDO
+
 ES COPIADA O FOTOGRAFIADA
+
 Hacer que la gente copie o fotografíe
+
 los cuadros de uno.
+
 Destruir los originales.
 
 Primavera 1964
