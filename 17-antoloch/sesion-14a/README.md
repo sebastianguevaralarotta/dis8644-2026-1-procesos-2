@@ -11,6 +11,7 @@ En esta clase nos dedicamos a trabajar en el último proyecto antes del examen. 
  ![antocarla](./imagenes/antocarla.jpeg)
  
 Cap 5
+
 Cuando leí el capítulo de Objetos en Pomelo, lo que más me quedó dando vueltas fue la Pieza de Quemar. Yoko dice que hay que hacer algo elaborado una autobiografía, un bordado, una silla tallada y después quemarlo, mirando cuánto se demora en arder. Esa idea me pegó fuerte porque normalmente uno hace cosas para que duren, pero acá la gracia está en ver cómo se destruyen. La obra no termina cuando la construyes, sino cuando se convierte en ceniza. Es como si el fuego fuera parte del arte, mostrando lo frágil que es todo lo que hacemos.
 
 Me recordó mucho a mis clases de cerámica. De hecho, ayer me enteré que una de mis piezas explotó en el horno y lo pasé pésimo. Sentí que todo ese trabajo se había perdido en un segundo. Pero recién ahora, hace unos minutos, terminé otra pieza y me di cuenta de que ese proceso el fracaso, la espera, el volver a intentarlo también es parte de la creación, el valor no está solo en el resultado final, sino en aceptar que las cosas pueden romperse, transformarse o desaparecer.
@@ -20,5 +21,6 @@ Pucha, lamentablemente siempre pensamos solo en lo positivo, en lo perfecto, en 
 Al final, siento que este capítulo habla de la vida misma. Uno se esfuerza, construye, se dedica, pero nada es eterno
 
 cap 6
+
 Yoko no está hablando de películas en el sentido clásico. Sus guiones son instrucciones que parecen absurdas, como pedirle al público que corte la parte de la pantalla que no le gusta o que cierre los ojos cuando aparezca cierto color. Todas forman parte de la historia.
 Lamentablemente todo se desgasta sin que lo notemos, poco a poco todo se vuelve más lento, hasta que llega el final sin aviso.
