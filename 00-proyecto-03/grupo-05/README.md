@@ -68,10 +68,6 @@ Integrantes:
 
 ## 2. Ensamblaje
 
-### Placas Soldadas
-
-**Insertar imagen de placas soldadas**
-
 ### Proceso tanto en clases y fuera de clases
 
 ![Proceso clase](./imagenes/procesoclase1.jpg)
@@ -82,10 +78,15 @@ Integrantes:
 
 ## 3. Propuestas de partituras
 
+### Propuesta 1
+
 ![partitura portada](./imagenes/partitura1.png)
 ![partitura pasos](./imagenes/partitura2.jpg)
 
+### Propuesta 2
 
+![partitura 2 portada](./imagenes/partituraportada2.png)
+![partitura 2](./imagenes/propuestapartitura2.png)
 
 
 
