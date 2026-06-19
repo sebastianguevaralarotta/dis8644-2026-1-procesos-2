@@ -8,15 +8,14 @@ Ok, entonces esta clase es mucho más de cosas manuales, por lo que es complicad
 
 Pero aquí hay fotos y más fotos!
 
--
+- ![Proceso](./imagenes/uno.webp)
 
--
+-![seguimiento](./imagenes/dos.webp)
 
--
+-![more](./imagenes/tres.webp)
 
--
+-![and more](./imagenes/cuatro.webp)
 
--
 
 Por mi lado me tocó crear la segunda partitura del sintetizador.
 
@@ -34,16 +33,16 @@ Cada una de las líneas en la partitura representan ciertas cosas:
 
 - Para las abejas, se hicieron las líneas que se usan para ilustrarlas de manera caricaturesca.
 
-![*chirihue mecanizado*](./imagenes/abeja.jpg)
+![Bee](./imagenes/abeja.jpg)
 
 
 - El corazón es representado con los signos vitales que se pueden ver en una máquina... de signos vitales.
 
-![*chirihue mecanizado*](./imagenes/corazon.jpg)
+![*tu dun*](./imagenes/corazon.jpg)
 
 - Para el pájaro se hizo una variación de un espectrograma que captaba el sonido de las aves.
 
-![*chirihue mecanizado*](./imagenes/ave.jpg)
+![Ave bird](./imagenes/ave.jpg)
 
 *Los espectrogramas son un gráfico visual que muestran los sonidos o señales acústicas registradas.*
 
@@ -54,6 +53,6 @@ En medio de la partitura, esta igualmente se parte en 5, pero en este caso, cada
 
 ## Resultado final
 
-![*chirihue mecanizado*](./imagenes/partitura_dos.jpg)
+![Partitura](./imagenes/partitura_dos.jpg)
 
-![*chirihue mecanizado*](./imagenes/Partitura_completa.jpg)
+![o Partitura?](./imagenes/Partitura_completa.jpg)
