@@ -92,3 +92,13 @@ El Circuito 1 (Lub-dub) es ideal para transformar nuestro secuenciador en una ca
 **Elegiria los circuitos 05 y 06**
 
 O sea nos quedaria el circuito del cd4040 y el cd 4017 y los circuitos del grupo 05 y 06
+
+## **TEXTO YOKO ONO:LIBRO COMPLETO**
+
+Sin darme cuenta, he hecho algunas cosas que salen en el libro.
+
+![imagen](./imagenes/yoko-ono.png)
+
+por ejemplo, al leer esta instrucción de Yoko Ono, me di cuenta de que sin querer ya formaba parte de su obra, muchas veces a las 8 de la mañana y antes de irme a la universidad, hago exactamente lo que el libro propone, quedarme pegada mirando cómo hierve el agua, mientras reflexiono sobre la vida. 
+
+El libro es una invitación a encontrar el arte y la introspección en las acciones más cotidianas, demostrando que la poesía visual y conceptual ya es parte de nuestra vida,de nuestra rutina, igual encuentro que algunas partes del libro son muy fuertes de hacer o muy extremistas, y otras me podrucen gracia, no haria algunas cosas que diceel libro, pero otras me gustarias intertarlas. 

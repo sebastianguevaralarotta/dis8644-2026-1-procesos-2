@@ -18,7 +18,27 @@ Nos complicaba generar ideas a partir de algo que todavía no podíamos escuchar
 
 + También se planteó la posibilidad de crear una actividad donde las personas deban realizar acciones en conjunto, como tomarse de las manos u otras dinámicas similares, poniendo al cuerpo como el principal medio para generar conexión entre los participantes.
 
+### Posibles cambios
+Vimos la posibilidad de cambiar los potenciómetros por algo nuevo para probar y unir aún más nuestro concepto de unidad.
+
++ Cambiar uno de los potenciómetros por un fotosensor (fotorresistencia), por temas relacionados con la naturaleza y el control de la luz, ya que esta siempre fue una de las opciones que más nos gustó.
+
++ Termistores: estos se calientan con el calor de la mano y cambian su resistencia según la temperatura. Nos parecieron interesantes porque incorporan la interacción directa del cuerpo de quien utiliza el instrumento.
+
+![termistores](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/927d13f82ebf3f877f5a6b2341016051ed1ec085/12-paulafuentesm/sesion-13b/imagenes/termistores.jpg)
+
+Precio referencia: 4.200 clp- 8.000 clp aprox. ( tienen diferencias pero no sabemos muy bien en que afecta el sonido)
+
++ SoftPot: sensor táctil  funciona al presionarlo con el dedo, cambiando su resistencia dependiendo del punto en que se toque o deslice la presión. Nos llamó la atención porque permite una interacción más directa y gestual con el instrumento.
+
+![spftpot](https://github.com/paulafuentesm/dis8644-2026-1-procesos-2/blob/927d13f82ebf3f877f5a6b2341016051ed1ec085/12-paulafuentesm/sesion-13b/imagenes/softpot.jpg)
+
+Precio referencia:  10.612 clp aprox
+
+Actualizacion: nos dijieron de esperar antes de comprarlos
+
 ### Referente (revisar profundidad)
+
 + Libro Ciencia, cyborgs y mujeres: la reinvención de la naturaleza de Donna Haraway.
 
 ---
@@ -31,17 +51,26 @@ Distintas acciones y situaciones que una persona podría realizar en su vida cot
 Se trata el tema del tiempo y cómo nuestra percepción de este podría modificarse a través de pequeñas acciones o cambios en la rutina. Sin embargo, estas posibilidades suelen pasar desapercibidas porque las personas continúan siguiendo las normas y estructuras establecidas socialmente normadas por el tiempo. Por lo que si yo puedo cambiar el tiempo de un reloj, la gente se daria cuenta que el tiempo cambio?.
 
 
-**favorito**
+**Favorito**
 
 MAQUINA DE GASTAR
+
 Pedirle a un hombre que gaste varias cosas
+
 antes que uno las use.
+
 Como:
+
 Mujeres
+
 Ropas
+
 Libros
+
 Departamentos
+
 Pianos
+
 Máquinas de escribir.
 
 Primavera 1964
@@ -53,14 +82,20 @@ Este fue uno de los capítulos que más me costó entender. Muchas de las situac
 
 Ò las propuestas buscaban romper con lo normativo y hacer que el lector pensara en otras posibilidades de actuar. Pero eso seguiria siendo parecido al de los capítulos anteriores: una serie de instrucciones o acciones para realizar. Acciones son muy simples y cotidianas, como tocar una pared o realizar tareas que podrían parecer parte de una lista de cosas por hacer. No lo entendi y quizas por eso se llama poesìa?.
 
-**favorito**
+**Favorito**
 
 PIEZA DE DÓLAR
+
 Elegir una suma de dólares.
+
 Imaginar todas las cosas que
+
 pueden comprarse con esa suma. (a)
+
 Imaginar todas las cosas que
+
 no pueden compararse con esa suma. (b)
+
 Anotarlas en un trozo de papel.
 
 Primavera 1963
